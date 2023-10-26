@@ -1,5 +1,5 @@
 # Research papers, Reports and Smaller ML Projects
-This is a collection of smaller ML projects and writing samples (i.e. research papers, reports, presentations) that I've worked on throughout my academic journey.
+This is a collection of some smaller ML projects and writing samples (i.e. research papers, reports, presentations) that I've worked on throughout my academic journey.
 
 - [Classifying the Risk of Default Payments](https://github.com/tl-lay/research-papers-and-reports/tree/2e9c90dd945a26653a93189e38691317a9575e84/Classifying%20the%20Risk%20of%20Default%20Payments): Exploring classic ML algorithms to determine whether customers will eventually pay for the goods they ordered from an online trader. The objective of the classification problem is to flag a purchase order as high or low risk of default payment. 
 - [HR Analytics - Job Changes in Data Scientists](https://github.com/tl-lay/research-papers-and-reports/tree/2e9c90dd945a26653a93189e38691317a9575e84/HR%20Analytics%20-%20Job%20Changes%20in%20Data%20Scientists): Performing HR data analysis and reporting observations on factors leading to job changes in data scientists. The dataset can be found [here](https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists).
